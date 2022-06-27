@@ -1,6 +1,6 @@
 # Table of contents
 # [General info]
-Repo has testcase made by Cypress Program - testing PKP Railway Timetable Service
+Repo has testcase made by Cypress Program - testing PKP Railway Timetable Service (https://rozklad-pkp.pl/)
 # [Technologies]
 In testcases are used technologies/modules like below:
 * Cypress
